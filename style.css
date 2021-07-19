@@ -1,0 +1,20 @@
+body{
+  background-color: teal;
+    font-family: Arial, Helvetica;
+   margin: 10% 20%;
+  text-align: center;
+}
+
+
+.list {
+  border: 1px solid black;
+}
+
+.header {
+  border-bottom: 1px solid;
+  border-top: 1px solid;
+}
+  
+.contact {
+  border-bottom: 1px solid;
+}
